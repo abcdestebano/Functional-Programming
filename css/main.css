@@ -1,0 +1,17 @@
+body {
+   font-family: 'Nunito', sans-serif;
+}
+
+#main-box {
+   border: 0;
+   box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.header-box {
+   background: #8E0E00;
+   /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);
+   /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #1F1C18, #8E0E00);
+   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
